@@ -1,0 +1,2 @@
+# DeskGoExtendedScreen
+DeskGo腾讯桌面整理连接扩展屏幕异常处理
