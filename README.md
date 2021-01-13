@@ -66,4 +66,6 @@ Exit /b
 ::****************************************************
 ```
 
+![](https://cdn.jsdelivr.net/gh/ridup/PicGo-Images/blog/20210113135008.png)
+
 附Github地址：https://github.com/Ridup/DeskGoExtendedScreen
