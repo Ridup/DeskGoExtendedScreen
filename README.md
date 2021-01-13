@@ -9,8 +9,9 @@
 
 ### 思路
 
-经过使用发现其配置文件就是ConFile.dat、DesktopMgr.lg、FencesDataFile.dat这三个文件，所以只需要备份这三个文件即可。备份路径选择为同目录的/Backup.
-![](https://cdn.jsdelivr.net/gh/ridup/PicGo-Images/blog/20210113105056.png)
+经过使用发现其配置文件就是ConFile.dat、DesktopMgr.lg、FencesDataFile.dat这三个文件，所以只需要备份这三个文件即可。备份路径选择为同目录的/Backup  
+
+![](https://gitee.com/ridup/PicGo-Images/raw/master/blog/20210113110136.png)
 
 ### 脚本
 
